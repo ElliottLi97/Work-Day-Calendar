@@ -4,6 +4,6 @@ I created a workday calendar to track your hourly goal and progress throughout t
 
 The HTML and CSS code was given to me mostly finished though I had to make some of my own changes and I wrote the JS code from scratch. 
 
-The finished site can be found here [Here](https://elliottli97.github.io/Work-Day-Calendar/)
+The finished site can be found [Here](https://elliottli97.github.io/Work-Day-Calendar/)
 
 ![Website Screenshot](/Images/Website.JPG)
